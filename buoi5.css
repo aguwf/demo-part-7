@@ -1,0 +1,34 @@
+/* Style dung ten the */
+div {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.vang {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.xanh {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.do {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#cam {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+/* .vang.tim {
+    background-color: purple;
+} */
